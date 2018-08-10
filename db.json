@@ -3,46 +3,56 @@
     {
       "id": 1,
       "pres": "George Washington",
-      "yr": "1789",
-      "wc": 1431,
-      "txt": "Among the vicissitudes incident to life no event could have filled me with greater anxieties than that of which the notification was transmitted by your order, and received on the 14th day of the present month."      
+      "yr": "1790",
+      "txt": "I embrace with great satisfaction the opportunity which now presents itself of congratulating you on the present favorable prospects of our public affairs. The recent accession of the important state of North Carolina to the Constitution of the United States (of which official information has been received), the rising credit and respectability of our country, the general and increasing good will toward the government of the Union, and the concord, peace, and plenty with which we are blessed are circumstances auspicious in an eminent degree to our national prosperity."      
     },{
       "id": 2,
-      "pres": "George Washington",
-      "yr": "1793",
-      "wc": 135,
-      "txt": "I am again called upon by the voice of my country to execute the functions of its Chief Magistrate."
-    },{
-      "id": 3,
       "pres": "John Adams",
       "yr": "1797",
-      "wc": 2321,
-      "txt": "When it was first perceived, in early times, that no middle course for America remained between unlimited submission to a foreign legislature and a total independence of its claims, men of reflection were less apprehensive of danger from the formidable power of fleets and armies they must determine to resist than from those contests and dissensions which would certainly arise concerning the forms of government to be instituted over the whole and over the parts of this extensive country."
+      "txt": "I was for some time apprehensive that it would be necessary, on account of the contagious sickness which afflicted the city of Philadelphia, to convene the National Legislature at some other place."
     },{
-      "id": 4,
+      "id": 3,
       "pres": "Thomas Jefferson",
       "yr": "1801",
-      "wc": 1730,
-      "txt": "Called upon to undertake the duties of the first executive office of our country, I avail myself of the presence of that portion of my fellow-citizens which is here assembled to express my grateful thanks for the favor with which they have been pleased to look toward me, to declare a sincere consciousness that the task is above my talents, and that I approach it with those anxious and awful presentiments which the greatness of the charge and the weakness of my powers so justly inspire."
+      "txt": "It is a circumstance of sincere gratification to me that on meeting the great council of our nation I am able to announce to them on grounds of reasonable certainty that the wars and troubles which have for so many years afflicted our sister nations have at length come to an end, and that the communications of peace and commerce are once more opening among them."
     },{
-      "id": 5,
-      "pres": "Thomas Jefferson",
-      "yr": "1805",
-      "wc": 2166,
-      "txt": "Proceeding, fellow citizens, to that qualification which the constitution requires, before my entrance on the charge again conferred upon me, it is my duty to express the deep sense I entertain of this new proof of confidence from my fellow citizens at large, and the zeal with which it inspires me, so to conduct myself as may best satisfy their just expectations."
-    },{
-      "id": 6,
+      "id": 4,
       "pres": "James Madison",
       "yr": "1809",
-      "wc": 1177,
-      "txt": "Unwilling to depart from examples of the most revered authority, I avail myself of the occasion now presented to express the profound impression made on me by the call of my country to the station to the duties of which I am about to pledge myself by the most solemn of sanctions."
+      "txt": "At the period of our last meeting I had the satisfaction of communicating an adjustment with one of the principal belligerent nations, highly important in itself, and still more so as presaging a more extended accommodation."
+    },{
+      "id": 5,
+      "pres": "James Monroe",
+      "yr": "1817",
+      "txt": "At no period of our political existence had we so much cause to felicitate ourselves at the prosperous and happy condition of our country."
+    },{
+      "id": 6,
+      "pres": "John Quincy Adams",
+      "yr": "1825",
+      "txt": "In taking a general survey of the concerns of our beloved country, with reference to subjects interesting to the common welfare, the first sentiment which impresses itself upon the mind is of gratitude to the Omnipotent Disposer of All Good for the continuance of the signal blessings of His providence, and especially for that health which to an unusual extent has prevailed within our borders, and for that abundance which in the vicissitudes of the seasons has been scattered with profusion over our land."
     },{
       "id": 7,
-      "pres": "James Madison",
-      "yr": "1813",
-      "wc": 1211,
-      "txt": "About to add the solemnity of an oath to the obligations imposed by a second call to the station in which my country heretofore placed me, I find in the presence of this respectable assembly an opportunity of publicly repeating my profound sense of so distinguished a confidence and of the responsibility united with it."
-    },{
+      "pres": "Andrew Jackson",
+      "yr": "1829",
+      "txt": "It affords me pleasure to tender my friendly greetings to you on the occasion of your assembling at the seat of Government to enter upon the important duties to which you have been called by the voice of our country-men."
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
       "id": 8,
       "pres": "James Monroe",
       "yr": "1817",
