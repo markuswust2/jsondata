@@ -1,0 +1,138 @@
+{
+  "speeches": [
+    {
+      "id": 1,
+      "pres": "George Washington",
+      "yr": "1790",
+      "txt": "I embrace with great satisfaction the opportunity which now presents itself of congratulating you on the present favorable prospects of our public affairs. The recent accession of the important state of North Carolina to the Constitution of the United States (of which official information has been received), the rising credit and respectability of our country, the general and increasing good will toward the government of the Union, and the concord, peace, and plenty with which we are blessed are circumstances auspicious in an eminent degree to our national prosperity."      
+    },{
+      "id": 2,
+      "pres": "John Adams",
+      "yr": "1797",
+      "txt": "I was for some time apprehensive that it would be necessary, on account of the contagious sickness which afflicted the city of Philadelphia, to convene the National Legislature at some other place."
+    },{
+      "id": 3,
+      "pres": "Thomas Jefferson",
+      "yr": "1801",
+      "txt": "It is a circumstance of sincere gratification to me that on meeting the great council of our nation I am able to announce to them on grounds of reasonable certainty that the wars and troubles which have for so many years afflicted our sister nations have at length come to an end, and that the communications of peace and commerce are once more opening among them."
+    },{
+      "id": 4,
+      "pres": "James Madison",
+      "yr": "1809",
+      "txt": "At the period of our last meeting I had the satisfaction of communicating an adjustment with one of the principal belligerent nations, highly important in itself, and still more so as presaging a more extended accommodation."
+    },{
+      "id": 5,
+      "pres": "James Monroe",
+      "yr": "1817",
+      "txt": "At no period of our political existence had we so much cause to felicitate ourselves at the prosperous and happy condition of our country."
+    },{
+      "id": 6,
+      "pres": "John Quincy Adams",
+      "yr": "1825",
+      "txt": "In taking a general survey of the concerns of our beloved country, with reference to subjects interesting to the common welfare, the first sentiment which impresses itself upon the mind is of gratitude to the Omnipotent Disposer of All Good for the continuance of the signal blessings of His providence, and especially for that health which to an unusual extent has prevailed within our borders, and for that abundance which in the vicissitudes of the seasons has been scattered with profusion over our land."
+    },{
+      "id": 7,
+      "pres": "Andrew Jackson",
+      "yr": "1829",
+      "txt": "It affords me pleasure to tender my friendly greetings to you on the occasion of your assembling at the seat of Government to enter upon the important duties to which you have been called by the voice of our country-men."
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "id": 8,
+      "pres": "Martin van Buren",
+      "yr": "1837",
+      "txt": "We have reason to renew the expression of our devout gratitude to the Giver of All Good for His benign protection."
+    },{
+      "id": 9,
+      "pres": "John Tyler",
+      "yr": "1841",
+      "txt": "In coming together, fellow-citizens, to enter again upon the discharge of the duties with which the people have charged us severally, we find great occasion to rejoice in the general prosperity of the country."
+    },{
+      "id": 10,
+      "pres": "James Polk",
+      "yr": "1845",
+      "txt": "It is to me a source of unaffected satisfaction to meet the representatives of the States and the people in Congress assembled, as it will be to receive the aid of their combined wisdom in the administration of public affairs."
+    },{
+      "id": 11,
+      "pres": "Zachary Taylor",
+      "yr": "1849",
+      "txt": "Sixty years have elapsed since the establishment of this Government, and the Congress of the United States again assembles to legislate for an empire of freemen."
+    },{
+      "id": 12,
+      "pres": "Millard Fillmore",
+      "yr": "1850",
+      "txt": "Being suddenly called in the midst of the last session of Congress by a painful dispensation of Divine Providence to the responsible station which I now hold, I contented myself with such communications to the Legislature as the exigency of the moment seemed to require"
+    },{
+      "id": 13,
+      "pres": "Franklin Pierce",
+      "yr": "1853",
+      "txt": "The interest with which the people of the Republic anticipate the assembling of Congress and the fulfillment on that occasion of the duty imposed upon a new President is one of the best evidences of their capacity to realize the hopes of the founders of a political system at once complex and symmetrical."
+    },{
+      "id": 14,
+      "pres": "James Buchanan",
+      "yr": "1857",
+      "wc": 8460,
+      "txt": "In obedience to the command of the Constitution, it has now become my duty \"to give to Congress information of the state of the Union and recommend to their consideration such measures\" as I judge to be \"necessary and expedient.\""
+    },{
+      "id": 15,
+      "pres": "Abraham Lincoln",
+      "yr": "1861",
+      "txt": "In the midst of unprecedented political troubles we have cause of great gratitude to God for unusual good health and most abundant harvests."
+    },{
+      "id": 16,
+      "pres": "Andrew Johnson",
+      "yr": "1865",
+      "txt": "To express gratitude to God in the name of the people for the preservation of the United States is my first duty in addressing you."
+    },{
+      "id": 17,
+      "pres": "Ulysses S. Grant",
+      "yr": "1869",
+      "txt": "In coming before you for the first time as Chief Magistrate of this great nation, it is with gratitude to the Giver of All Good for the many benefits we enjoy."
+    },{
+      "id": 18,
+      "pres": "Rutherford B. Hayes",
+      "yr": "1877",
+      "txt": "In coming before you for the first time as Chief Magistrate of this great nation, it is with gratitude to the Giver of All Good for the many benefits we enjoy."
+    },{
+      "id": 19,
+      "pres": "Chester A. Arthur",
+      "yr": "1881",
+      "txt": "An appalling calamity has befallen the American people since their chosen representatives last met in the halls where you are now assembled."
+    },{
+      "id": 20,
+      "pres": "Grover Cleveland",
+      "yr": "1885",
+      "txt": "Your assembling is clouded by a sense of public bereavement, caused by the recent and sudden death of Thomas A. Hendricks, Vice-President of the United States."
+    },{
+      "id": 21,
+      "pres": "Benjamin Harrison",
+      "yr": "1889",
+      "txt": "There are few transactions in the administration of the Government that are even temporarily held in the confidence of those charged with the conduct of the public business."
+    },{
+      "id": 22,
+      "pres": "Grover Cleveland",
+      "yr": "1893",
+      "txt": "The constitutional duty which requires the President from time to time to give to the Congress information of the state of the Union and recommend to their consideration such measures as he shall judge necessary and expedient is fittingly entered upon by commending to the Congress a careful examination of the detailed statements and well-supported recommendations contained in the reports of the heads of Departments, who are chiefly charged with the executive work of the Government."
+    },{
+      "id": 23,
+      "pres": "William McKinley",
+      "yr": "1897",
+      "txt": "It gives me pleasure to extend greeting to the Fifty-fifth Congress, assembled in regular session at the seat of Government, with many of whose Senators and Representatives I have been associated in the legislative service."
+    }
+  ]
+}
