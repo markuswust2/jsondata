@@ -35,24 +35,7 @@
       "pres": "Andrew Jackson",
       "yr": "1829",
       "txt": "It affords me pleasure to tender my friendly greetings to you on the occasion of your assembling at the seat of Government to enter upon the important duties to which you have been called by the voice of our country-men."
-    },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    {
+    },{
       "id": 8,
       "pres": "Martin van Buren",
       "yr": "1837",
@@ -64,7 +47,7 @@
       "txt": "In coming together, fellow-citizens, to enter again upon the discharge of the duties with which the people have charged us severally, we find great occasion to rejoice in the general prosperity of the country."
     },{
       "id": 10,
-      "pres": "James Polk",
+      "pres": "James K. Polk",
       "yr": "1845",
       "txt": "It is to me a source of unaffected satisfaction to meet the representatives of the States and the people in Congress assembled, as it will be to receive the aid of their combined wisdom in the administration of public affairs."
     },{
